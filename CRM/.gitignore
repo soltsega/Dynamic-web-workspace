@@ -1,0 +1,4 @@
+node_modules/
+backend/.env
+backend/package-lock.json
+CRM_ROADMAP.md
