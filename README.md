@@ -15,7 +15,7 @@ A professional-grade CRM dashboard featuring a glassmorphism aesthetic, designed
 - **Key Features:** Secure JWT Auth, Private Pipelines, Industry-standard Security (Helmet, Rate-limiting).
 
 ### 2. [Dynamic Portfolio Website](./solomontsega_portfolio_website)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://solomontsega-portfolio-website.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blueviolet?style=for-the-badge&logo=vercel)](https://solomontsega-portfolio-website.vercel.app/)
 A state-of-the-art personal portfolio showcasing technical expertise, credentials, and projects with a dynamic backend.
 - **Backend:** Python, FastAPI
 - **Database:** PostgreSQL / SQLite (SQLAlchemy)
