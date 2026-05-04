@@ -42,7 +42,7 @@ _pytest_cache/
 
 # Misc
 backend/package-lock.json
-portfolio.db
+
 7776b2e0-1891-11f1-9f86-2b1d062e8767.tar.gz
 scratch/cleanup_db.py
 CRM_ROADMAP.md
