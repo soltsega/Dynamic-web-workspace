@@ -1,10 +1,10 @@
 # FUTURE_FS_01
 
-Welcome to the collection of internship projects for **FutureInterns**. This repository serves as a unified workspace for high-performance web applications built during the program.
+Welcome to the collection of internship projects for **FutureInterns**. This repository is a workspace for high-performance web applications built during the program.
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
 ### 1. [Premium Mini CRM](./CRM)
 A professional-grade CRM dashboard featuring a glassmorphism aesthetic, designed for real-time lead management and secure data isolation.
@@ -22,7 +22,7 @@ A state-of-the-art personal portfolio showcasing technical expertise, credential
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 Each project is self-contained with its own configuration and dependencies. To explore or run a specific project, navigate to its respective directory:
 
@@ -31,5 +31,5 @@ Each project is self-contained with its own configuration and dependencies. To e
 
 ---
 
-## 📄 License
+## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
