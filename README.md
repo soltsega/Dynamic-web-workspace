@@ -7,7 +7,7 @@ Welcome to the collection of internship projects for **FutureInterns**. This rep
 ## Projects Overview
 
 ### 1. [Premium Mini CRM](./CRM)
-Live Demo: https://solomon-mini-crm.netlify.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://solomon-mini-crm.netlify.app/)
 A professional-grade CRM dashboard featuring a glassmorphism aesthetic, designed for real-time lead management and secure data isolation.
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose)
@@ -15,7 +15,7 @@ A professional-grade CRM dashboard featuring a glassmorphism aesthetic, designed
 - **Key Features:** Secure JWT Auth, Private Pipelines, Industry-standard Security (Helmet, Rate-limiting).
 
 ### 2. [Dynamic Portfolio Website](./solomontsega_portfolio_website)
-Live Demo: https://solomontsega-portfolio.netlify.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://solomontsega-portfolio.netlify.app/)
 A state-of-the-art personal portfolio showcasing technical expertise, credentials, and projects with a dynamic backend.
 - **Backend:** Python, FastAPI
 - **Database:** PostgreSQL / SQLite (SQLAlchemy)
