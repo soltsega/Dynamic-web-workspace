@@ -1,6 +1,6 @@
-# FUTURE_FS_01
+# Dynamic-web-workspace
 
-Welcome to the collection of internship projects for **FutureInterns**. This repository is a workspace for high-performance web applications built during the program.
+This repository is a workspace for high-performance web applications built.
 
 ---
 
